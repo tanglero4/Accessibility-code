@@ -15,7 +15,7 @@ header {
     background-color: #2a607c;
     color: #ffffff;
 }
-
+ 
 h1 {
     display: inline-block;
     font-size: 48px;
@@ -47,9 +47,6 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
 /* Banner IMG take up whole width of page */
 main {
     height: 800px;
@@ -59,16 +56,7 @@ main {
     background-size: cover;
     background-position: center;
 }
-/* Section set to the left */
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-/* Section set to the right */
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
+
 /* Reduce width of section so we can set aside next to it*/
 article {
     width: 75%;
@@ -86,7 +74,18 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+p {
+    font-size: 16px;
+}
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
 
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
 .cards {
     margin-bottom: 20px;
     padding: 50px;
