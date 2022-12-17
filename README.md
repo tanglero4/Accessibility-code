@@ -14,6 +14,7 @@ N/A
 ## Usage
 
 * Open up website.
+![Horiseo full webpage includes navigation bar, header image, and cards with texts on the bottom of the page](/assets/images/01-html-css-git-homework-demo.png)
 * Click on links in the navigation bar to be directed to the pertaining section or scroll down.
 
 ## Credits
